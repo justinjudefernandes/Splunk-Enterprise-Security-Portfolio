@@ -8,7 +8,7 @@ To develop practical Security Operations Center (SOC) skills by deploying and co
 
 | Project Title                      | Link      |
 |-----------------------------------------------|----------------------------|
-| Splunk SIEM Fundamentals & Security Monitoring          | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">View Project</a>|
+| Splunk SIEM Fundamentals & Security Monitoring          | <a href="https://github.com/justinjudefernandes/Splunk-SIEM-Fundamentals-Security-Monitoring/">View Project</a>|
 | Capstone Challenge – Splunk 101         | <a href="https://github.com/justinjudefernandes/Email-Security-Phishing-Analysis-in-Microsoft-Defender/">View Project</a>|
 
 ## 🧠 What I Learned... 
