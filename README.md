@@ -41,6 +41,24 @@ Overall, this portfolio strengthened my ability to deploy, manage, and utilize S
     <img src="https://img.shields.io/badge/-Suricata-E53935?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-424242?&style=for-the-badge" />
+
+    <img src="https://img.shields.io/badge/-Splunk%20Enterprise-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Search%20Processing%20Language%20(SPL)-F28C28?&style=for-the-badge&logo=splunk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Log%20Management-1565C0?&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/-Threat%20Detection-C62828?&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/-Security%20Monitoring-2E7D32?&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/-Incident%20Investigation-6A1B9A?&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/-Threat%20Hunting-E65100?&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/-Dashboard%20Development-00897B?&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-424242?&style=for-the-badge" />
 </div>
 
 
