@@ -33,11 +33,14 @@ Overall, this portfolio strengthened my ability to deploy, manage, and utilize S
 
 ## 🧰 Tools
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft%20Defender%20XDR-B71C1C?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Defender%20for%20Endpoint-1B5E20?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Defender%20for%20Office%20365-E65100?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Intune-0D47A1?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-4A148C?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk%20Enterprise-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SPL-F28C28?&style=for-the-badge&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%20Event%20Logs-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-005A9C?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Suricata-E53935?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-424242?&style=for-the-badge" />
 </div>
 
 
