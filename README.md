@@ -1,34 +1,35 @@
 # Splunk Enterprise Security Portfolio
-Introduction to Splunk fundamentals and SIEM concepts
+A hands-on portfolio showcasing the deployment and use of Splunk Enterprise for security operations, log management, threat detection, and incident investigation. These projects demonstrate practical SOC analyst skills through real-world SIEM implementation, SPL-based investigations, dashboard development, alert engineering, and threat hunting.
 
 ## 🎯 Objective
-To develop practical skills in enterprise security operations by leveraging the Microsoft Security Stack for threat detection, incident response, endpoint protection, and security monitoring across cloud and identity environments.
+To develop practical Security Operations Center (SOC) skills by deploying and configuring Splunk Enterprise, collecting and analyzing security logs, building detections and dashboards, and performing threat hunting and incident investigations using industry-standard SIEM workflows.
 
 ## 📊 Projects
 
 | Project Title                      | Link      |
 |-----------------------------------------------|----------------------------|
-| SOC Threat Hunting with Microsoft Sentinel          | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">View Project</a>|
-| Email Security & Phishing Analysis in Microsoft Defender          | <a href="https://github.com/justinjudefernandes/Email-Security-Phishing-Analysis-in-Microsoft-Defender/">View Project</a>|
-| Attack Emulation and SOC Investigation Using Microsoft Security Tools         | <a href="https://github.com/justinjudefernandes/Attack-Emulation-and-SOC-Investigation-Using-Microsoft-Security-Tools/">View Project</a>|
-| Microsoft Defender XDR: Phishing-Led Multi-Stage Attack Simulation & End-to-End SOC Investigation        | <a href="https://github.com/justinjudefernandes/Phishing-Led-Multi-Stage-Attack-Simulation-and-End-to-End-SOC-Investigation/blob/main/README.md/">View Project</a>|
+| Splunk SIEM Fundamentals & Security Monitoring          | <a href="https://github.com/justinjudefernandes/SOC-Threat-Hunting-with-Microsoft-Sentinel/">View Project</a>|
+| Capstone Challenge – Splunk 101         | <a href="https://github.com/justinjudefernandes/Email-Security-Phishing-Analysis-in-Microsoft-Defender/">View Project</a>|
 
 ## 🧠 What I Learned... 
-Through this Microsoft Security Stack project, I gained hands-on experience in SOC operations within a Microsoft enterprise environment, working across identity, endpoint, email, and cloud security layers.
+Through this Splunk Enterprise Security portfolio, I gained hands-on experience deploying and administering Splunk Enterprise, onboarding diverse security log sources, and building a centralized platform for enterprise security monitoring.
 
-In Microsoft Sentinel, I learned log analysis, KQL-based detection, and incident investigation through data correlation. With Microsoft Defender XDR and Defender for Endpoint, I worked on endpoint detection, alert investigation, and understanding attack paths across systems.
+I developed proficiency in the Search Processing Language (SPL) to search, correlate, and analyze security events, optimize searches, enrich data with lookups, and investigate suspicious activity across multiple data sources. I also created dashboards, alerts, and scheduled reports to improve SOC visibility and support proactive threat detection.
 
-In Microsoft Defender for Office 365, I analyzed phishing attacks by inspecting email headers, links, and payloads. With Entra ID, I explored identity security, authentication risks, and conditional access concepts.
+By completing the capstone challenge, I applied these skills to realistic security monitoring scenarios, reinforcing my understanding of SIEM operations, log analysis, threat hunting, and incident response workflows.
 
-Overall, this project improved my ability to analyze security incidents end-to-end, map threats to the MITRE ATT&CK framework, and think like a SOC analyst using Microsoft security tools.
+Overall, this portfolio strengthened my ability to deploy, manage, and utilize Splunk Enterprise as a SIEM platform for effective security operations.
 
 ## 🛡️ Skill Set
-- Microsoft Sentinel (SIEM) – Log ingestion, correlation rules, analytics queries, incident management
-- Microsoft Defender XDR – Cross-domain threat detection and response
-- Microsoft Defender for Endpoint – Endpoint detection, investigation, and response (EDR)
-- Microsoft Defender for Office 365 – Email threat protection and phishing analysis
-- Microsoft Entra ID (Azure AD) – Identity monitoring, conditional access concepts, authentication security
-- Microsoft Intune – Endpoint management and device compliance concepts
+- Splunk Enterprise – SIEM deployment, administration, and configuration
+- Search Processing Language (SPL) – Search development, optimization, and event correlation
+- Log Management – Data onboarding, parsing, indexing, and field extraction
+- Threat Detection – Detection engineering, alert creation, and correlation searches
+- Security Monitoring – Continuous monitoring and security event analysis
+- Incident Investigation – Alert triage, log correlation, and root cause analysis
+- Threat Hunting – Proactive threat hunting using SPL and behavioral analysis
+- Dashboard Development – Security dashboards, visualizations, and reporting
+- MITRE ATT&CK Mapping – Mapping detections to adversary tactics and techniques
 
 ## 🧰 Tools
 <div>
