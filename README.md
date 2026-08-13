@@ -6,13 +6,6 @@ To develop practical Security Operations Center (SOC) skills by deploying and co
 
 ## 📊 Projects
 
-| Project Title                      | Link      |
-|-----------------------------------------------|----------------------------|
-| Splunk SIEM Fundamentals & Security Monitoring          | <a href="https://github.com/justinjudefernandes/Splunk-SIEM-Fundamentals-Security-Monitoring/">View Project</a>|
-| Capstone Challenge – Splunk 101         | <a href="https://github.com/justinjudefernandes/Capstone-Challenge-Splunk-101/blob/main/README.md/">View Project</a>|
-
-## 📊 Projects
-
 > **📌 Project Sequence:** The projects are arranged in sequential order, progressing from Splunk fundamentals and foundational SIEM monitoring through hands-on investigation and capstone analysis.
 
 | **S.No** | **Project Title** | **Link** |
