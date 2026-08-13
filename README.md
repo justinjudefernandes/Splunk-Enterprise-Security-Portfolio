@@ -11,7 +11,7 @@ To develop practical Security Operations Center (SOC) skills by deploying and co
 | **S.No** | **Project Title** | **Link** |
 |---:|---|---|
 | 1 | Splunk SIEM Fundamentals & Security Monitoring | <a href="https://github.com/justinjudefernandes/Splunk-SIEM-Fundamentals-Security-Monitoring/">View Project</a> |
-| 2 | Capstone Challenge – Splunk 101 | <a href="https://github.com/justinjudefernandes/Capstone-Challenge-Splunk-101/blob/main/README.md/">View Project</a> |
+| 2 | Capstone Challenge – Splunk 101 | <a href="https://github.com/justinjudefernandes/Capstone-Challenge-Splunk-101/">View Project</a> |
 
 ## 🧠 What I Learned... 
 Through this Splunk Enterprise Security portfolio, I gained hands-on experience deploying and administering Splunk Enterprise, onboarding diverse security log sources, and building a centralized platform for enterprise security monitoring.
