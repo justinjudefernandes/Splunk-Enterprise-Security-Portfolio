@@ -1,12 +1,12 @@
 # Splunk Enterprise Security Portfolio
-A hands-on portfolio showcasing the deployment and use of Splunk Enterprise for security operations, log management, threat detection, and incident investigation. These projects demonstrate practical SOC analyst skills through real-world SIEM implementation, SPL-based investigations, dashboard development, alert engineering, and threat hunting.
+A Splunk Enterprise security operations portfolio demonstrating SIEM deployment, security telemetry onboarding, SPL-based detection, threat hunting, dashboard development, alert engineering, and incident investigation.
 
 ## 🎯 Objective
-To develop practical Security Operations Center (SOC) skills by deploying and configuring Splunk Enterprise, collecting and analyzing security logs, building detections and dashboards, and performing threat hunting and incident investigations using industry-standard SIEM workflows.
+To demonstrate Splunk Enterprise security operations capabilities through SIEM deployment and administration, security telemetry onboarding, SPL-based detection and investigation, threat hunting, dashboard development, alert engineering, and incident response.
 
 ## 📊 Projects
 
-> **📌 Project Sequence:** The projects are arranged in sequential order, progressing from Splunk fundamentals and foundational SIEM monitoring through hands-on investigation and capstone analysis.
+> **📌 Portfolio Structure:** The projects demonstrate progressively broader Splunk security operations capabilities, covering SIEM deployment, telemetry onboarding, SPL-based analysis, detection engineering, security monitoring, threat hunting, and incident investigation.
 
 | **S.No** | **Project Title** | **Link** |
 |---:|---|---|
@@ -14,24 +14,27 @@ To develop practical Security Operations Center (SOC) skills by deploying and co
 | 2 | Capstone Challenge – Splunk 101 | <a href="https://github.com/justinjudefernandes/Capstone-Challenge-Splunk-101/">View Project</a> |
 
 ## 🛠️ Capabilities Demonstrated
-Through this Splunk Enterprise Security portfolio, I gained hands-on experience deploying and administering Splunk Enterprise, onboarding diverse security log sources, and building a centralized platform for enterprise security monitoring.
+This portfolio demonstrates the deployment and administration of Splunk Enterprise as a SIEM platform for centralized security monitoring and investigation.
 
-I developed proficiency in the Search Processing Language (SPL) to search, correlate, and analyze security events, optimize searches, enrich data with lookups, and investigate suspicious activity across multiple data sources. I also created dashboards, alerts, and scheduled reports to improve SOC visibility and support proactive threat detection.
-
-By completing the capstone challenge, I applied these skills to realistic security monitoring scenarios, reinforcing my understanding of SIEM operations, log analysis, threat hunting, and incident response workflows.
-
-Overall, this portfolio strengthened my ability to deploy, manage, and utilize Splunk Enterprise as a SIEM platform for effective security operations.
+- **SIEM Administration:** Configured Splunk Enterprise, indexes, forwarders, data inputs, sourcetypes, and security telemetry pipelines.
+- **SPL Development:** Developed searches for event correlation, aggregation, field extraction, enrichment, time-based analysis, and investigation.
+- **Security Monitoring:** Analyzed Windows, Sysmon, Defender, PowerShell, Zeek, and Suricata telemetry to identify suspicious activity and security events.
+- **Detection Engineering:** Developed security alerts and monitoring use cases for suspicious authentication and brute-force activity.
+- **Threat Hunting:** Applied SPL-based behavioral analysis and multi-source telemetry correlation to investigate potential threats.
+- **Dashboard & Reporting:** Developed security dashboards and scheduled reports to support SOC visibility and operational monitoring.
+- **Incident Investigation:** Correlated endpoint, DNS, network, and process telemetry to reconstruct attack activity and document investigative findings.
+- **MITRE ATT&CK:** Mapped observed adversary behaviors and detection logic to relevant MITRE ATT&CK techniques.
 
 ## 🛡️ Security Capabilities
-- Splunk Enterprise – SIEM deployment, administration, and configuration
-- Search Processing Language (SPL) – Search development, optimization, and event correlation
-- Log Management – Data onboarding, parsing, indexing, and field extraction
-- Threat Detection – Detection engineering, alert creation, and correlation searches
-- Security Monitoring – Continuous monitoring and security event analysis
-- Incident Investigation – Alert triage, log correlation, and root cause analysis
-- Threat Hunting – Proactive threat hunting using SPL and behavioral analysis
-- Dashboard Development – Security dashboards, visualizations, and reporting
-- MITRE ATT&CK Mapping – Mapping detections to adversary tactics and techniques
+- **Splunk Enterprise** – SIEM deployment, administration, configuration, and security monitoring
+- **Search Processing Language (SPL)** – Search development, optimization, event correlation, and investigation
+- **Security Telemetry** – Data onboarding, parsing, indexing, field extraction, and normalization
+- **Detection Engineering** – Detection logic, alert creation, correlation searches, and monitoring use cases
+- **Security Monitoring** – Event analysis, authentication monitoring, and suspicious activity detection
+- **Incident Investigation** – Alert triage, multi-source correlation, timeline reconstruction, and root cause analysis
+- **Threat Hunting** – Behavioral analysis and proactive investigation using SPL
+- **Dashboard Development** – Security dashboards, visualizations, and operational reporting
+- **MITRE ATT&CK** – Adversary behavior analysis and technique mapping
 
 ## 🧰 Tools
 <div>
