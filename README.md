@@ -22,7 +22,7 @@ By completing the capstone challenge, I applied these skills to realistic securi
 
 Overall, this portfolio strengthened my ability to deploy, manage, and utilize Splunk Enterprise as a SIEM platform for effective security operations.
 
-## 🛡️ Skill Set
+## 🛡️ Security Capabilities
 - Splunk Enterprise – SIEM deployment, administration, and configuration
 - Search Processing Language (SPL) – Search development, optimization, and event correlation
 - Log Management – Data onboarding, parsing, indexing, and field extraction
