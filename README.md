@@ -10,8 +10,8 @@ To demonstrate Splunk Enterprise security operations capabilities through SIEM d
 
 | **S.No** | **Project Title** | **Link** |
 |---:|---|---|
-| 1 | Splunk SIEM Fundamentals & Security Monitoring | <a href="https://github.com/justinjudefernandes/Splunk-SIEM-Fundamentals-Security-Monitoring/">View Project</a> |
-| 2 | Capstone Challenge – Splunk 101 | <a href="https://github.com/justinjudefernandes/Capstone-Challenge-Splunk-101/">View Project</a> |
+| 1. | Splunk SIEM Fundamentals & Security Monitoring | <a href="https://github.com/justinjudefernandes/Splunk-SIEM-Fundamentals-Security-Monitoring/">View Project</a> |
+| 2. | Capstone Challenge – Splunk 101 | <a href="https://github.com/justinjudefernandes/Capstone-Challenge-Splunk-101/">View Project</a> |
 
 ## 🛠️ Capabilities Demonstrated
 This portfolio demonstrates the deployment and administration of Splunk Enterprise as a SIEM platform for centralized security monitoring and investigation.
